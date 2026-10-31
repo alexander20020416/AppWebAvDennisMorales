@@ -1,1 +1,5 @@
 .workbuddy-ai/
+/.vs
+bin
+Debug
+*.csproj.user
